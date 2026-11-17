@@ -1,0 +1,22 @@
+entry_id,date,day_of_week,mess_dinner_dish,student_rating,veg_fried_rice_qty,egg_fried_rice_qty,veg_chowmein_qty,egg_chowmein_qty,omelette_qty,veg_maggi_qty,misc_tea_coldrinks_rs,total_revenue_rs,early_shutdown_flag,stockout_flag,field_context_note
+1,2026-09-01,Tuesday,Lauki Chana & Masoor Dal,2.0,14,26,18,22,19,8,180,7495,0,1,Eggs ran out by 10:45 PM; had to refuse last 6 orders
+2,2026-09-02,Wednesday,Matar Paneer / Chicken Curry,4.8,3,5,4,4,2,3,120,1575,1,0,Hostel mess packed for non-veg dinner; Manoj shut counter at 11:10 PM
+3,2026-09-03,Thursday,Peas Pulao & Chana Dal,3.0,8,12,10,11,8,6,140,3920,0,0,Average dinner crowd; steady flow of roll and tea orders
+4,2026-09-04,Friday,Aloo Baigan Sabzi & Moong Dal,2.4,12,21,15,19,14,7,190,6005,0,0,Baigan sabzi heavily skipped; high demand for veg and egg noodles
+5,2026-09-05,Saturday,Khichdi & Aloo Chokha,1.4,19,34,22,29,26,11,250,9825,0,1,Super peak rush after 9:30 PM; boiled rice exhausted at 11:40 PM
+6,2026-09-06,Sunday,Puri & Kabuli Chana,4.2,4,6,5,4,3,4,160,2125,1,0,Students ate Puri/Halwa; several ordered Swiggy from Bistupur
+7,2026-09-07,Monday,Soyabean Semi Dry & Chana Dal,2.2,11,20,14,18,13,6,170,5485,0,0,Chana dal disliked; students came for Egg Chowmein and tea
+8,2026-09-08,Tuesday,Lauki Chana & Masoor Dal,2.1,13,24,17,21,18,9,210,6925,0,1,Egg trays ran out; Manoj had to borrow 1 tray from day canteen
+9,2026-09-09,Wednesday,Matar Paneer / Chicken Curry,4.7,2,6,3,5,2,2,90,1760,1,0,Empty tables; only 4 students ordered cold coffee and Maggi
+10,2026-09-10,Thursday,Peas Pulao & Chana Dal,3.1,7,11,9,10,7,5,130,3545,0,0,Normal night; closed routinely at midnight
+11,2026-09-11,Friday,Aloo Baigan Sabzi & Moong Dal,2.5,11,19,14,17,12,6,160,5440,0,0,Moderate rain at 8 PM; crowd arrived later around 10:15 PM
+12,2026-09-12,Saturday,Khichdi & Aloo Chokha,1.3,18,32,24,30,28,12,280,9850,0,1,Record rush; huge waiting time (>30 mins) for Double Egg Rice
+13,2026-09-13,Sunday,Puri & Kabuli Chana,4.1,5,7,6,5,4,5,180,2595,1,0,Slow evening; closed kitchen at 11:20 PM to save gas
+14,2026-09-14,Monday,Soyabean Semi Dry & Chana Dal,2.3,12,19,13,17,11,5,150,5235,0,0,Consistent spillover; students preferred Egg Fried Rice over mess
+15,2026-09-15,Tuesday,Lauki Chana & Masoor Dal,1.9,15,27,19,23,20,10,220,7610,0,1,High rush; noodle stock ran out at 11:15 PM
+16,2026-09-16,Wednesday,Matar Paneer / Chicken Curry,4.9,1,4,2,3,1,2,80,1215,1,0,Lowest day; total sales barely crossed 1200 rupees
+17,2026-09-17,Thursday,Peas Pulao & Chana Dal,2.9,9,13,11,12,9,7,170,4315,0,0,Normal crowd; ice cream in mess kept some students inside
+18,2026-09-18,Friday,Aloo Baigan Sabzi & Moong Dal,2.3,13,22,16,20,15,8,190,6345,0,0,Consistent high Friday crowd; fried rice prepped adequately
+19,2026-09-19,Saturday,Khichdi & Aloo Chokha,1.5,17,31,21,28,25,10,240,9145,0,1,Severe rush; Manoj had to turn off UPI scanner at 11:30 PM
+20,2026-09-20,Sunday,Puri & Kabuli Chana,4.3,3,5,4,3,2,3,110,1615,1,0,Students had heavy lunch biryani; dinner canteen demand was minimal
+21,2026-09-21,Monday,Soyabean Semi Dry & Chana Dal,2.1,13,22,16,19,14,7,180,5995,0,0,Steady late-night study rush before mid-sem prep
