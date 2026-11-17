@@ -6,6 +6,11 @@ The system translates the hostel mess dinner schedule into concrete kitchen prep
 
 ---
 
+## 🎥 3-Minute Video Demo
+▶️ **[Click here to watch the 3-minute video walkthrough](https://drive.google.com/file/d/1RHENIusaGqM3i9Zp4RuAmsV6VQCOm1-T/view?usp=sharing)** *(Loom / Google Drive / YouTube)*
+
+---
+
 ## 1. System Architecture
 * **Frontend:** React.js, Tailwind CSS, Recharts, Lucide Icons
 * **Backend:** Node.js, Express REST API (Modular MVC Architecture)
